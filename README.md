@@ -7,6 +7,11 @@ This is learning HTML and CSS.
 #### © 2022  All Right Reserved Design By Nimesh Piyumantha
 #### If you hava any bugs or issues , If you want to explain my code pleace contact me on : nimeshpiyumantha11@gmail.com
 
+## Dark Mode
+![alt text](https://github.com/NimeshPiyumantha/Calculator/blob/main/screenshorts/Screenshot%20(1).png)
+## Light Mode
+![alt text](https://github.com/NimeshPiyumantha/Calculator/blob/main/screenshorts/Screenshot%20(2).png)
+
 ## 
 ![alt text](https://github.com/NimeshPiyumantha/Calculator/blob/main/screenshorts/Screenshot%201%20(1).png)
 ## 
