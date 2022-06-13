@@ -2,10 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Calculator</title>
+    <title>Calculator | Dark and Light Mode </title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+<div class="btn">
+    <strong>&#127774;</strong>
+    <strong>&#127771;</strong>
+</div>
+
 <div class="container">
     <form class ="calculator" name="calc">
         <input type="text" class ="value" readonly name="txt">
@@ -30,6 +35,12 @@
         <span class="num equal" onclick="document.calc.txt.value=eval(calc.txt.value)"><i>=</i></span>
     </form>
 </div>
-
+<script>
+    let body = document.querySelector('body');
+    let btn = document.querySelector('.btn');
+    btn.onclick =function (){
+        body.classList.toggle('light')
+    }
+</script>
 </body>
 </html>
